@@ -203,3 +203,30 @@ header {
   width: 100px;
   margin: 0 auto;
 }
+
+/* Subscribe */
+
+.subscribe {
+  padding: 70px 0;
+  background-color: var(--soft-blue);
+}
+
+.subscribe__wrapper {
+  text-align: center;
+}
+
+.subscribe__wrapper p {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 12px;
+}
+
+.subscribe__wrapper h3 {
+  color: white;
+  font-weight: 400;
+}
+
+footer {
+  background-color: var(--very-dark-blue);
+}
